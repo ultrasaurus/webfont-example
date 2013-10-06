@@ -1,6 +1,6 @@
 # Open Font Experiment
 
-simple webpage experimenting with some free fonts
+A simple webpage experimenting with some free fonts.  See it [live](http://ultrasaurus.github.io/webfont-example/)
 
 * Hero - 23K
 * Hero light - 21K (not actually used yet)
